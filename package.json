@@ -1,0 +1,20 @@
+{
+  "name": "asinconismojs",
+  "version": "1.0.0",
+  "description": "asincronismos con JS",
+  "main": "src/index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "asincronismos",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.4",
+    "node-fetch": "^2.6.1"
+  }
+}
